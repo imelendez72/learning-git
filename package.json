@@ -1,0 +1,23 @@
+{
+  "name": "testArea",
+  "version": "0.0.1",
+  "description": "Just messing around with git.  Addeing some node modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imelendez72/learning-git"
+  },
+  "author": "imelendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imelendez72/learning-git/issues"
+  },
+  "homepage": "https://github.com/imelendez72/learning-git",
+  "dependencies": {
+    "express": "^4.11.2",
+    "mongoose": "^3.8.22"
+  }
+}
